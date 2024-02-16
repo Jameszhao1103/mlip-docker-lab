@@ -6,9 +6,9 @@ Docker is a tool that allows developers, sys-admins etc. to easily deploy their 
 Complete all the Deliverables mentioned below and show it to a TA for credit.
 
 ## Deliverables
-- [ ] Setup Docker on your system
-- [ ] Containerize the Flask App
-- [ ] Deploy Machine Learning Models on Docker
+- [x] Setup Docker on your system
+- [x] Containerize the Flask App
+- [x] Deploy Machine Learning Models on Docker
 
 ## Deliverable 1 - Setup Docker
 
